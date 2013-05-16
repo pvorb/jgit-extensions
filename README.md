@@ -1,7 +1,7 @@
 jgit-extensions
 ===============
 
-Scala facilities for [JGit](http://eclipse.org/jgit/).
+Scala facillities for [JGit](http://eclipse.org/jgit/).
 
 
 Installation
